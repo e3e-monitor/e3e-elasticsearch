@@ -33,7 +33,47 @@ $ymax=6.2;
 
 rand($min_x, $max_x);
 $res_json='';
-//generate 10 random events
+
+//////////////
+//Infinite loop
+
+while (true) {
+	 $eventuuid = generateRandomString();
+	 $timestamp = randomDate($start_date, $end_date);
+	 $x = float_rand($xmin ,  $xmax, 10);
+	 $y = float_rand($ymin ,  $ymax, 10);
+	 $elevation = rand($elmin ,  $elmax);
+	 $confidence = rand($confmin ,  $confmax);
+	 $size = rand($sizemin ,  $sizemax);
+	 $type = $exp_type[array_rand($exp_type,1)];
+	
+	$json_gen_event='{ "timestamp" : '.$timestamp.' ,"location" : { "lat": '.$x.', "lon": '.$y.'  } ,"elevation" : '.$elevation.' ,"confidence" : '.$confidence.' ,"size": '.$size.' }';
+	$res_json = $res_json  . $json_gen_event;
+	
+	$url = 'http://52.29.7.137:5000/event';
+
+	// use key 'http' even if you send the request to https://...
+	$options = array(
+	    'http' => array(
+	        'header'  => "Content-type: application/json\r\n",
+	        'method'  => 'POST',
+	        'content' => json_encode($json_gen_event),
+	     //   'content' => $json_gen_event,
+	    ),
+	);
+
+	$context  = stream_context_create($options);
+	$result = file_get_contents($url, false, $context);
+}
+
+
+
+
+
+
+//////////////
+
+//generate random events
 for ($i = 1; $i <= $nevents; $i++) {
 //    echo $i.'<br>';
 	echo '<br>';
@@ -53,21 +93,47 @@ for ($i = 1; $i <= $nevents; $i++) {
 	echo '<br>';
 	echo $type = $exp_type[array_rand($exp_type,1)];
 	
-	$json_gen_event='{ "eventuuid": "'.$eventuuid.'" ,
-	"timestamp" : '.$timestamp.' ,
-	"location" : { "lat": '.$x.', "lon": '.$y.'  } ,
-	"elevation" : '.$elevation.' ,
-	"confidence" : '.$confidence.' ,
-	"size": '.$size.' ,
-	"type": "'.$exp_type.'" }';
+	$json_gen_event='{ "timestamp" : '.$timestamp.' ,"location" : { "lat": '.$x.', "lon": '.$y.'  } ,"elevation" : '.$elevation.' ,"confidence" : '.$confidence.' ,"size": '.$size.' }';
+	echo '<br>';
+	echo $json_gen_event;
+	echo '<br>';
+	$res_json = $res_json  . $json_gen_event;
 	
-	$res_json = $res_json . $json_index . $json_gen_event;
-	
+	$url = 'http://52.29.7.137:5000/event';
+
+	// use key 'http' even if you send the request to https://...
+	$options = array(
+	    'http' => array(
+	        'header'  => "Content-type: application/json\r\n",
+	        'method'  => 'POST',
+	        'content' => json_encode($json_gen_event),
+	     //   'content' => $json_gen_event,
+	    ),
+	);
+
+	$context  = stream_context_create($options);
+	$result = file_get_contents($url, false, $context);
+	echo '<br>';
+	echo $result;
+	echo '<br>';
+	echo '<br>';
 }
-echo $res_json;
+//echo $res_json;
 file_put_contents( $filename , $res_json );
 
+//$url = 'http://52.29.7.137:5000/event';
 
+// use key 'http' even if you send the request to https://...
+//$options = array(
+//    'http' => array(
+//        'header'  => "Content-type: application/json\r\n",
+//        'method'  => 'POST',
+//        'content' => json_encode($res_json),
+//    ),
+//);
+
+//$context  = stream_context_create($options);
+//$result = file_get_contents($url, false, $context);
 
 
 //Helper functions
