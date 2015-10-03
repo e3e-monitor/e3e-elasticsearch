@@ -1,0 +1,11 @@
+{
+    "refugeecamp": {
+      "properties": {
+        "country": { "type": "string" },
+        "designatio": { "type": "string" },
+        "name": { "type": "string" },
+        "ADMIN1": { "type": "string" },
+        "location": { "type": "geo_point" }
+      }
+    }
+}

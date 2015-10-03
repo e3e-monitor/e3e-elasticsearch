@@ -1,0 +1,42 @@
+country,designatio,name,ADMIN1,lat,lon,fips,iso_alpha2,iso_alpha3,iso_num,stanag,tld
+Turkey,Official Camp Open,Adana,Adana,37.041811,35.489627,TU,TR,TUR,792.000000,TUR,.tr
+Turkey,Official Camp Open,Adiyaman,Adiyaman,37.546676,38.228857,TU,TR,TUR,792.000000,TUR,.tr
+Turkey,Official Camp Open,Akçakale,Sanliurfa,36.752998,38.952426,TU,TR,TUR,792.000000,TUR,.tr
+Iraq,Official Camp Open,Al Obaidy,Al Anbar,34.418529,41.221634,IZ,IQ,IRQ,368.000000,IRQ,.iq
+Turkey,Official Camp Open,Altinözü 1,Hatay,36.130218,36.238946,TU,TR,TUR,792.000000,TUR,.tr
+Turkey,Official Camp Open,Altinözü 2,Hatay,36.183747,36.364449,TU,TR,TUR,792.000000,TUR,.tr
+Turkey,Official Camp Open,Apaydiná,Hatay,36.23507,36.35207,TU,TR,TUR,792.000000,TUR,.tr
+Iraq,Transitional Facility Open,Aqra,Ninawa,36.735715,43.879595,IZ,IQ,IRQ,368.000000,IRQ,.iq
+Iraq,Official Camp Open,Arbat Camp,Suleimaniyah,35.376246,45.610466,IZ,IQ,IRQ,368.000000,IRQ,.iq
+Jordan,Official Camp Open,Azraq,Zarqa,31.904955,36.583883,JO,JO,JOR,400.000000,JOR,.jo
+Iraq,Official Camp Open,Basirma,Erbil,36.497853,44.341293,IZ,IQ,IRQ,368.000000,IRQ,.iq
+Turkey,Official Camp Open,Ceylanpinar,Sanliurfa,36.814799,39.924255,TU,TR,TUR,792.000000,TUR,.tr
+Jordan,Other Site Open,Cyber City,Irbid,32.455842,35.968674,JO,JO,JOR,400.000000,JOR,.jo
+Iraq,Official Camp Open,Dara Shakran,Erbil,36.470779,43.89043,IZ,IQ,IRQ,368.000000,IRQ,.iq
+Turkey,Official Camp Open,Derik,Mardin,37.363333,40.271111,TU,TR,TUR,792.000000,TUR,.tr
+Iraq,Official Camp Open,Domiz,Dahuk,36.784013,42.886701,IZ,IQ,IRQ,368.000000,IRQ,.iq
+Iraq,Official Camp Open,Domiz 2,Dahuk,36.763926,42.895752,IZ,IQ,IRQ,368.000000,IRQ,.iq
+Iraq,Official Camp Open,Gawilan,Ninawa,36.341638,43.60867,IZ,IQ,IRQ,368.000000,IRQ,.iq
+Turkey,Official Camp Open,Harran Kokenli,Sanliurfa,36.873199,38.9312,TU,TR,TUR,792.000000,TUR,.tr
+Turkey,Official Camp Open,Islâhiye,Gaziantep,36.984384,36.61815,TU,TR,TUR,792.000000,TUR,.tr
+Turkey,Official Camp Open,Islahiye II,Gaziantep,36.984384,36.61815,TU,TR,TUR,792.000000,TUR,.tr
+Turkey,Official Camp Open,Kahramanmaras-Türkoglu,Kahramanmaras,37.56253,36.975217,TU,TR,TUR,792.000000,TUR,.tr
+Turkey,Official Camp Open,Karkamisá,Gaziantep,36.875833,38.028333,TU,TR,TUR,792.000000,TUR,.tr
+Iraq,Official Camp Open,Kawergosk,Erbil,36.344624,43.812228,IZ,IQ,IRQ,368.000000,IRQ,.iq
+Turkey,Official Camp Open,Kilis-Elbeyli,Kilis,36.661691,37.361668,TU,TR,TUR,792.000000,TUR,.tr
+Turkey,Official Camp Open,Kilis-Oncupinar,Kilis,36.646702,37.082614,TU,TR,TUR,792.000000,TUR,.tr
+Jordan,Other Site Open,King Abdullah Park,Irbid,32.527836,36.023625,JO,JO,JOR,400.000000,JOR,.jo
+Turkey,Official Camp Open,Malatya-Beydagi,Malatya,38.341536,38.153927,TU,TR,TUR,792.000000,TUR,.tr
+Turkey,Official Camp Open,Midyat 1,Mardin,37.411528,41.388257,TU,TR,TUR,792.000000,TUR,.tr
+Turkey,Official Camp Open,Midyat 2,Mardin,37.413702,41.393397,TU,TR,TUR,792.000000,TUR,.tr
+Jordan,Official Camp Open,Mrajeeb al-Fhood,Zarqa,32.033547,36.447105,JO,JO,JOR,400.000000,JOR,.jo
+Turkey,Official Camp Open,Nizip 1,Gaziantep,37.043057,37.903607,TU,TR,TUR,792.000000,TUR,.tr
+Turkey,Official Camp Open,Nizip 2,Gaziantep,37.046562,37.894919,TU,TR,TUR,792.000000,TUR,.tr
+Turkey,Official Camp Open,Osmaniye,Osmaniye,37.135975,36.204636,TU,TR,TUR,792.000000,TUR,.tr
+Iraq,Official Camp Open,Qushtapa,Erbil,35.984427,44.037035,IZ,IQ,IRQ,368.000000,IRQ,.iq
+Jordan,Reception Center Open,Rabaa' Al-Sarhan,Al Mafraq,32.41409,36.234511,JO,JO,JOR,400.000000,JOR,.jo
+Turkey,Official Camp Open,Suruc,Sanliurfa,36.978753,38.426449,TU,TR,TUR,792.000000,TUR,.tr
+Turkey,Official Camp Open,Viransehir,Sanliurfa,36.934884,40.02404,TU,TR,TUR,792.000000,TUR,.tr
+Turkey,Official Camp Open,Yayladagi 1,Hatay,35.906089,36.050238,TU,TR,TUR,792.000000,TUR,.tr
+Turkey,Official Camp Open,Yayladagi 2,Hatay,35.906841,36.054853,TU,TR,TUR,792.000000,TUR,.tr
+Jordan,Official Camp Open,Za'atri,Al Mafraq,32.293389,36.327941,JO,JO,JOR,400.000000,JOR,.jo

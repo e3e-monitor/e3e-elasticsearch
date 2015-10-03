@@ -1,0 +1,15 @@
+{
+    "idpcamp": {
+      "properties": {
+        "description": { "type": "string" },
+        "country": { "type": "string" },
+        "ADM1": { "type": "string" },
+        "ADM2": { "type": "string" },
+        "ADM3": { "type": "string" },
+        "ADM4": { "type": "string" },
+        "name": { "type": "string" },
+        "pcode": { "type": "string" },
+        "location": { "type": "geo_point" }
+      }
+    }
+}
