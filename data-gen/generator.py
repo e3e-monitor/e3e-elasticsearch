@@ -13,11 +13,10 @@ while True:
   rand_elevation = int(random.uniform(1, 500))
 
   data = {'timestamp': str(int(time.time())),
-      'location': {"lat": str(rand_lat), "lon": str(rand_lon)},
-      "elevation": str(rand_elevation), "confidence": str(rand_confidence),
-      "size": str(rand_size) }
+      'location': {"lat": rand_lat, "lon": rand_lon},
+      "elevation": float(rand_elevation), "confidence": float(rand_confidence),
+      "size": float(rand_size) }
   print data
   r = requests.post("http://localhost:5000/event", json=json.dumps(data))
   time.sleep(SLEEP_TIME)
-
 
