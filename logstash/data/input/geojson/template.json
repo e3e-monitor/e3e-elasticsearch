@@ -1,0 +1,12 @@
+{
+    "feature": {
+      "properties": {
+        "id" : { "type" : "string" },
+        "location": { "type": "geo_point" },
+        "name": { "type": "string" },
+        "description": { "type": "string" },
+        "category": { "type": "string" }
+      }
+    }
+}
+
