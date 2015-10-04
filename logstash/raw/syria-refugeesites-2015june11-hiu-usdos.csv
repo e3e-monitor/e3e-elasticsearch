@@ -1,4 +1,3 @@
-country,designatio,name,ADMIN1,lat,lon,fips,iso_alpha2,iso_alpha3,iso_num,stanag,tld
 Turkey,Official Camp Open,Adana,Adana,37.041811,35.489627,TU,TR,TUR,792.000000,TUR,.tr
 Turkey,Official Camp Open,Adiyaman,Adiyaman,37.546676,38.228857,TU,TR,TUR,792.000000,TUR,.tr
 Turkey,Official Camp Open,Akçakale,Sanliurfa,36.752998,38.952426,TU,TR,TUR,792.000000,TUR,.tr
@@ -40,3 +39,4 @@ Turkey,Official Camp Open,Viransehir,Sanliurfa,36.934884,40.02404,TU,TR,TUR,792.
 Turkey,Official Camp Open,Yayladagi 1,Hatay,35.906089,36.050238,TU,TR,TUR,792.000000,TUR,.tr
 Turkey,Official Camp Open,Yayladagi 2,Hatay,35.906841,36.054853,TU,TR,TUR,792.000000,TUR,.tr
 Jordan,Official Camp Open,Za'atri,Al Mafraq,32.293389,36.327941,JO,JO,JOR,400.000000,JOR,.jo
+

@@ -1,0 +1,67 @@
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Adana","ADMIN1":"Adana","location":{"lat":37.041811,"lon":35.489627}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Adiyaman","ADMIN1":"Adiyaman","location":{"lat":37.546676,"lon":38.228857}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Akçakale","ADMIN1":"Sanliurfa","location":{"lat":36.752998,"lon":38.952426}}
+{"type":"refugee","country":"Iraq","designation":"Official Camp Open","name":"Al Obaidy","ADMIN1":"Al Anbar","location":{"lat":34.418529,"lon":41.221634}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Altinözü 1","ADMIN1":"Hatay","location":{"lat":36.130218,"lon":36.238946}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Altinözü 2","ADMIN1":"Hatay","location":{"lat":36.183747,"lon":36.364449}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Apaydiná","ADMIN1":"Hatay","location":{"lat":36.23507,"lon":36.35207}}
+{"type":"refugee","country":"Iraq","designation":"Transitional Facility Open","name":"Aqra","ADMIN1":"Ninawa","location":{"lat":36.735715,"lon":43.879595}}
+{"type":"refugee","country":"Iraq","designation":"Official Camp Open","name":"Arbat Camp","ADMIN1":"Suleimaniyah","location":{"lat":35.376246,"lon":45.610466}}
+{"type":"refugee","country":"Jordan","designation":"Official Camp Open","name":"Azraq","ADMIN1":"Zarqa","location":{"lat":31.904955,"lon":36.583883}}
+{"type":"refugee","country":"Iraq","designation":"Official Camp Open","name":"Basirma","ADMIN1":"Erbil","location":{"lat":36.497853,"lon":44.341293}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Ceylanpinar","ADMIN1":"Sanliurfa","location":{"lat":36.814799,"lon":39.924255}}
+{"type":"refugee","country":"Jordan","designation":"Other Site Open","name":"Cyber City","ADMIN1":"Irbid","location":{"lat":32.455842,"lon":35.968674}}
+{"type":"refugee","country":"Iraq","designation":"Official Camp Open","name":"Dara Shakran","ADMIN1":"Erbil","location":{"lat":36.470779,"lon":43.89043}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Derik","ADMIN1":"Mardin","location":{"lat":37.363333,"lon":40.271111}}
+{"type":"refugee","country":"Iraq","designation":"Official Camp Open","name":"Domiz","ADMIN1":"Dahuk","location":{"lat":36.784013,"lon":42.886701}}
+{"type":"refugee","country":"Iraq","designation":"Official Camp Open","name":"Domiz 2","ADMIN1":"Dahuk","location":{"lat":36.763926,"lon":42.895752}}
+{"type":"refugee","country":"Iraq","designation":"Official Camp Open","name":"Gawilan","ADMIN1":"Ninawa","location":{"lat":36.341638,"lon":43.60867}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Harran Kokenli","ADMIN1":"Sanliurfa","location":{"lat":36.873199,"lon":38.9312}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Islâhiye","ADMIN1":"Gaziantep","location":{"lat":36.984384,"lon":36.61815}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Islahiye II","ADMIN1":"Gaziantep","location":{"lat":36.984384,"lon":36.61815}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Kahramanmaras-Türkoglu","ADMIN1":"Kahramanmaras","location":{"lat":37.56253,"lon":36.975217}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Karkamisá","ADMIN1":"Gaziantep","location":{"lat":36.875833,"lon":38.028333}}
+{"type":"refugee","country":"Iraq","designation":"Official Camp Open","name":"Kawergosk","ADMIN1":"Erbil","location":{"lat":36.344624,"lon":43.812228}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Kilis-Elbeyli","ADMIN1":"Kilis","location":{"lat":36.661691,"lon":37.361668}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Kilis-Oncupinar","ADMIN1":"Kilis","location":{"lat":36.646702,"lon":37.082614}}
+{"type":"refugee","country":"Jordan","designation":"Other Site Open","name":"King Abdullah Park","ADMIN1":"Irbid","location":{"lat":32.527836,"lon":36.023625}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Malatya-Beydagi","ADMIN1":"Malatya","location":{"lat":38.341536,"lon":38.153927}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Midyat 1","ADMIN1":"Mardin","location":{"lat":37.411528,"lon":41.388257}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Midyat 2","ADMIN1":"Mardin","location":{"lat":37.413702,"lon":41.393397}}
+{"type":"refugee","country":"Jordan","designation":"Official Camp Open","name":"Mrajeeb al-Fhood","ADMIN1":"Zarqa","location":{"lat":32.033547,"lon":36.447105}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Nizip 1","ADMIN1":"Gaziantep","location":{"lat":37.043057,"lon":37.903607}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Nizip 2","ADMIN1":"Gaziantep","location":{"lat":37.046562,"lon":37.894919}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Osmaniye","ADMIN1":"Osmaniye","location":{"lat":37.135975,"lon":36.204636}}
+{"type":"refugee","country":"Iraq","designation":"Official Camp Open","name":"Qushtapa","ADMIN1":"Erbil","location":{"lat":35.984427,"lon":44.037035}}
+{"type":"refugee","country":"Jordan","designation":"Reception Center Open","name":"Rabaa' Al-Sarhan","ADMIN1":"Al Mafraq","location":{"lat":32.41409,"lon":36.234511}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Viransehir","ADMIN1":"Sanliurfa","location":{"lat":36.934884,"lon":40.02404}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Yayladagi 1","ADMIN1":"Hatay","location":{"lat":35.906089,"lon":36.050238}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Yayladagi 2","ADMIN1":"Hatay","location":{"lat":35.906841,"lon":36.054853}}
+{"type":"refugee","country":"Jordan","designation":"Official Camp Open","name":"Za'atri","ADMIN1":"Al Mafraq","location":{"lat":32.293389,"lon":36.327941}}
+{"type":"refugee","tags":["_csvparsefailure"],"location":{"lat":"%{lat}","lon":"%{lon}"}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Adana","ADMIN1":"Adana","location":{"lat":37.041811,"lon":35.489627}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Adiyaman","ADMIN1":"Adiyaman","location":{"lat":37.546676,"lon":38.228857}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Akçakale","ADMIN1":"Sanliurfa","location":{"lat":36.752998,"lon":38.952426}}
+{"type":"refugee","country":"Iraq","designation":"Official Camp Open","name":"Al Obaidy","ADMIN1":"Al Anbar","location":{"lat":34.418529,"lon":41.221634}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Altinözü 1","ADMIN1":"Hatay","location":{"lat":36.130218,"lon":36.238946}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Altinözü 2","ADMIN1":"Hatay","location":{"lat":36.183747,"lon":36.364449}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Apaydiná","ADMIN1":"Hatay","location":{"lat":36.23507,"lon":36.35207}}
+{"type":"refugee","country":"Iraq","designation":"Transitional Facility Open","name":"Aqra","ADMIN1":"Ninawa","location":{"lat":36.735715,"lon":43.879595}}
+{"type":"refugee","country":"Iraq","designation":"Official Camp Open","name":"Arbat Camp","ADMIN1":"Suleimaniyah","location":{"lat":35.376246,"lon":45.610466}}
+{"type":"refugee","country":"Jordan","designation":"Official Camp Open","name":"Azraq","ADMIN1":"Zarqa","location":{"lat":31.904955,"lon":36.583883}}
+{"type":"refugee","country":"Iraq","designation":"Official Camp Open","name":"Basirma","ADMIN1":"Erbil","location":{"lat":36.497853,"lon":44.341293}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Ceylanpinar","ADMIN1":"Sanliurfa","location":{"lat":36.814799,"lon":39.924255}}
+{"type":"refugee","country":"Jordan","designation":"Other Site Open","name":"Cyber City","ADMIN1":"Irbid","location":{"lat":32.455842,"lon":35.968674}}
+{"type":"refugee","country":"Iraq","designation":"Official Camp Open","name":"Dara Shakran","ADMIN1":"Erbil","location":{"lat":36.470779,"lon":43.89043}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Derik","ADMIN1":"Mardin","location":{"lat":37.363333,"lon":40.271111}}
+{"type":"refugee","country":"Iraq","designation":"Official Camp Open","name":"Domiz","ADMIN1":"Dahuk","location":{"lat":36.784013,"lon":42.886701}}
+{"type":"refugee","country":"Iraq","designation":"Official Camp Open","name":"Domiz 2","ADMIN1":"Dahuk","location":{"lat":36.763926,"lon":42.895752}}
+{"type":"refugee","country":"Iraq","designation":"Official Camp Open","name":"Gawilan","ADMIN1":"Ninawa","location":{"lat":36.341638,"lon":43.60867}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Harran Kokenli","ADMIN1":"Sanliurfa","location":{"lat":36.873199,"lon":38.9312}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Islâhiye","ADMIN1":"Gaziantep","location":{"lat":36.984384,"lon":36.61815}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Islahiye II","ADMIN1":"Gaziantep","location":{"lat":36.984384,"lon":36.61815}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Kahramanmaras-Türkoglu","ADMIN1":"Kahramanmaras","location":{"lat":37.56253,"lon":36.975217}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Karkamisá","ADMIN1":"Gaziantep","location":{"lat":36.875833,"lon":38.028333}}
+{"type":"refugee","country":"Iraq","designation":"Official Camp Open","name":"Kawergosk","ADMIN1":"Erbil","location":{"lat":36.344624,"lon":43.812228}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Kilis-Elbeyli","ADMIN1":"Kilis","location":{"lat":36.661691,"lon":37.361668}}
+{"type":"refugee","country":"Turkey","designation":"Official Camp Open","name":"Kilis-Oncupinar","ADMIN1":"Kilis","location":{"lat":36.646702,"lon":37.082614}}
