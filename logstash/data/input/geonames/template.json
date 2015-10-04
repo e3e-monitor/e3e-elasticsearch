@@ -1,0 +1,24 @@
+{
+    "geoname": {
+      "properties": {
+        "geonameid" : { "type" : "integer" },
+        "asciiname": { "type": "string" },
+        "alternatenames": { "type": "string" },
+        "location": { "type": "geo_point" },
+        "feature_class": { "type": "string" },
+        "feature_code": { "type": "string" },
+        "country": { "type": "string" },
+        "cc2": { "type": "string" },
+        "admin1": { "type": "string" },
+        "admin2": { "type": "string" },
+        "admin3": { "type": "string" },
+        "admin4": { "type": "string" },
+        "population": { "type": "integer" },
+        "elevation": { "type": "integer" },
+        "dem": { "type": "integer" },
+        "timezone": { "type": "string" },
+        "modification_date": { "type": "date" }
+      }
+    }
+}
+
