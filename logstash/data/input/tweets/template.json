@@ -1,0 +1,29 @@
+{
+  "tweet" : {
+    "properties" : {
+      "coordinates" : {
+        "type" : "double"
+      },
+      "created_at" : {
+        "type" : "date",
+        "format" : "dateOptionalTime"
+      },
+      "location": { "type": "geo_point" },
+      "location_name" : {
+        "type" : "string"
+      },
+      "retweet_count" : {
+        "type" : "long"
+      },
+      "retweeted" : {
+        "type" : "boolean"
+      },
+      "text" : {
+        "type" : "string"
+      },
+      "user" : {
+        "type" : "string"
+      }
+    }
+  }
+}
